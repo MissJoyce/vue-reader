@@ -8,7 +8,7 @@
 
 > [爬虫地址](https://github.com/tgxhx/node-crawler)
 
-> 另外推荐一下本项目的[react版本](https://github.com/tgxhx/react-reader),自己另外一个[vue高仿网易云音乐](https://github.com/tgxhx/vue-music)和一个[MD风格Cnode社区](https://github.com/tgxhx/vue-md-cnode)
+> 另外推荐一下本项目的[react版本](https://github.com/tgxhx/react-reader)
 ## 使用说明
 
 ``` bash
